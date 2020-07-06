@@ -13,6 +13,8 @@ các công nghệ chính được sử dụng trong việc xây dựng ứng d�
 -	Rest(ful) API
 -	Google map API
 -	QR code scan API
+- Golang
+
 
 ![rsz_106472974_313964316429919_1681549751543583402_n](https://user-images.githubusercontent.com/51690306/86558278-20322680-bf83-11ea-996e-a81570468bdf.jpg)
 ![rsz_1107530587_578391506192011_8202078893055796732_n](https://user-images.githubusercontent.com/51690306/86558421-7c954600-bf83-11ea-9fb6-ed2942fbe0a4.png)
